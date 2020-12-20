@@ -1,0 +1,146 @@
+.info h1{
+ /* color:slateblue;
+  color:rgb(0,255,0);
+  color:#00ff00;
+  color:#0f0;*/
+  color: #333;
+  font-family: Verdana,sans-serif;
+  margin-top:80%;
+  font-weight:normal ;
+  font-size: 24px;
+}
+
+body{
+  /* margin-top: top 0px;
+  margin-bottom: top 0px;
+  margin-right: top 0px;
+  margin-left: top 0px; */
+  margin:0;
+}
+
+header{
+  background-color:#efefef;
+  margin:0;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.container{/* 背景の色*/ 
+  /* background-color: rgb(189, 27, 54); */
+  width:440px;
+  margin-left: auto;
+  margin-right: auto; /*中央揃え*/
+  display:flex;
+  align-items: center;
+}
+
+.container h1{
+  font-size:45px;
+  margin-top: 30px;
+}
+
+.icon img{
+  /* border-radius:20px; */
+  border-radius:50%;
+  border-width: 10px;
+  border-style: solid;
+  border-color: gray;
+}
+
+
+
+.info{
+  /* background-color: rgb(248, 214, 18); */
+}
+
+.icon p{
+  margin-left: 30px;
+}
+
+.icon img{
+  margin-left: 23px;
+}
+
+.icon ul{
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.icon ul li{
+  margin-right: auto;
+}
+
+.icon{
+  /* background-color: skyblue; */
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.岩本蓮加{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.岩本蓮加>h1{
+  font-weight: normal;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.岩本蓮加 img{
+  align-items: center;
+}
+.岩本蓮加 p{
+ font-size: 20px;
+ text-align: center;
+ margin-bottom: 10px;
+}
+.岩本蓮加 section{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.逃げ水{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.逃げ水 h1{
+  font-weight: normal;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.逃げ水 img{
+  align-items: center;
+
+}
+.逃げ水>section>img{
+  margin-left: 200px;
+}
+
+
+footer p{
+ text-align: center;
+ margin-bottom: 70px;
+ margin-top: 70px;
+}
